@@ -4,4 +4,4 @@ spring:
     url: jdbc:mysql://192.168.137.111:3306/dev_bowls_betting?useSSL=false
     username: root
     password: 1234567899
-dev:test
+dev: test

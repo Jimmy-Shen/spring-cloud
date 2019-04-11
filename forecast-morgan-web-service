@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.137.111:3306/dev_bowls_betting?useSSL=false
+    username: root
+    password: '{cipher}b0473aa681296d8668bbd12a2ef15df1986282cc53c0fe750726f945680a691b'
